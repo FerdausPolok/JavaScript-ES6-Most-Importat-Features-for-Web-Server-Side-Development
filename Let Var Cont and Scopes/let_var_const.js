@@ -60,4 +60,4 @@ console.log("Global Scope Values:", a, b, c); //changes on var
 
 
 
-//Hence we will try to use LET instead of VAR. So that, we don't get ERROR, OVERLAP
+//Hence we will try to use LET instead of VAR. So that, we don't get ERROR, OVERLAP. It's safer.

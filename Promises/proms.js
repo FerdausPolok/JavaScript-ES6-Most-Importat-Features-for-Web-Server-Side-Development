@@ -24,4 +24,4 @@ proms.then((message) =>{
 
 console.log("I'm after promise");
 
-//Uses: Image downloading . Download hote hote onnano code jeno kaj kore
+//Uses: Image downloading . Download hote hote onnano code jeno kaj kore - Asynchronous Vabe kaj korbe
